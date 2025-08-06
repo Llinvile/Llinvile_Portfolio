@@ -56,12 +56,12 @@ Data Science Portfolio
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[[YourProfile]](https://www.linkedin.com/in/llinvile-de-jongh-853742248/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/llinvile-de-jongh-853742248/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dllinvile@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/[[YourProfile]](https://www.kaggle.com/competitions/titanic/code))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/llinviledejongh)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Llinvile&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
