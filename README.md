@@ -49,18 +49,18 @@ Data Science Portfolio
 ---
 
 ## 📚 Education  
-🎓 **Data Science Bootcamp** – Stellenbosch University / Hyperion Dev  
+🎓 **Data Science Bootcamp** | Stellenbosch University / Hyperion Dev  
 - **Grade:** 99% Average  
 - **Skills:** Python, ML, Statistics, SQL, Data Wrangling
 
-🎓**Data Science Math Skills Certificate** -  COURSERA
+🎓 **Data Science Math Skills Certificate** | COURSERA
 **Skills:**
 - Derivatives, Graphing, Plot (Graphics), Arithmetic and Geometry
 -	Probability & Bayesian Statistics
 -	Calculus, Algebra and General Mathematics
 -	Mathematical Foundations for Data Science and Data Analysis
 
-**Diploma in Business Management** | Boland College
+🎓 **Diploma in Business Management** | Boland College
 
 ---
 
