@@ -2,7 +2,7 @@
 Data Science Portfolio
 
 # 👋 Hi, I'm Llinvile de Jongh 
-### 🚀 Graduate Data Scientist | Python & Machine Learning Specialist  
+### 🚀 Graduate Data Scientist 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Llinvile&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -51,7 +51,16 @@ Data Science Portfolio
 ## 📚 Education  
 🎓 **Data Science Bootcamp** – Stellenbosch University / Hyperion Dev  
 - **Grade:** 99% Average  
-- **Skills:** Python, ML, Statistics, SQL, Data Wrangling  
+- **Skills:** Python, ML, Statistics, SQL, Data Wrangling
+
+🎓**Data Science Math Skills Certificate** -  COURSERA
+**Skills:**
+- Derivatives, Graphing, Plot (Graphics), Arithmetic and Geometry
+-	Probability & Bayesian Statistics
+-	Calculus, Algebra and General Mathematics
+-	Mathematical Foundations for Data Science and Data Analysis
+
+**Diploma in Business Management** | Boland College
 
 ---
 
